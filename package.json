@@ -10,6 +10,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "nuxt": "^3.3.0",
+    "nuxt-chatgpt": "^0.2.1",
     "rollup": "3.18.0"
   },
   "dependencies": {
@@ -17,7 +18,7 @@
     "@vueuse/nuxt": "^9.13.0",
     "daisyui": "^2.51.5",
     "nanoid": "^4.0.1",
-    "openai": "^3.2.1",
+    "openai": "^4.0.0",
     "vue3-markdown-it": "^1.0.10"
   }
 }

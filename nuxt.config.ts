@@ -2,4 +2,7 @@
 export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss", "@vueuse/nuxt"],
   ssr: false,
+  runtimeConfig: {
+    OPEN_AI_KEY: ""
+  }
 });
